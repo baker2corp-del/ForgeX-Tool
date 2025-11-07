@@ -47,4 +47,4 @@ Ideal for monitoring server activity and exploring tool functions.
 
 This tool is for personal or educational use only.
 
-## For Help Join my discord https://discord.gg/5f9yAgE5a5
+## For Help Join my [discord](https://discord.gg/5f9yAgE5a5)
